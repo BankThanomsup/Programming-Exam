@@ -15,7 +15,7 @@
         <form method="post" action="index.php">
             <label for="number"> Enter a number : </label>
             <input type="text" id="number" name="number" class ="DocSearch-Button-Placeholder">
-            <button type="submit" class="btn btn-success">GO</button>
+            <button typfe="submit" class="btn btn-success">GO</button>
 
     </form>
 
